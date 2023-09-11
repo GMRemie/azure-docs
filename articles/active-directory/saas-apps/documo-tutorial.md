@@ -116,7 +116,7 @@ In this section, you'll enable B.Simon to use Azure single sign-on by granting a
 1. If you are expecting a role to be assigned to the users, you can select it from the **Select a role** dropdown. If no role has been set up for this app, you see "Default Access" role selected.
 1. In the **Add Assignment** dialog, click the **Assign** button.
 
-## Configure Documo SSO
+## Configure Documo SAML 2.0
 
 1. Log in to your Documo website as an administrator.
 
@@ -124,7 +124,7 @@ In this section, you'll enable B.Simon to use Azure single sign-on by granting a
 
     ![screenshot for security page.](./media/documo-tutorial/security.png)
 
-1. In the security tab, click on **Configure SSO** button at the bottom of the page.
+1. In the security tab, click on **Configure SAML 2.0** button.
 
     ![screenshot for configure button.](./media/documo-tutorial/configure-sso.png)
 
